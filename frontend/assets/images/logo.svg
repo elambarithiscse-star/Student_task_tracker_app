@@ -1,0 +1,22 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rounded Background -->
+  <rect width="512" height="512" rx="100" fill="#2196F3"/>
+  
+  <!-- Stylized Path (Book/Checkmark Hybrid) -->
+  <path d="M140 180C140 168.954 148.954 160 160 160H352C363.046 160 372 168.954 372 180V340C372 351.046 363.046 360 352 360H160C148.954 360 140 351.046 140 340V180Z" fill="white" fill-opacity="0.1"/>
+  
+  <!-- Graduation Cap Top -->
+  <path d="M256 120L380 180L256 240L132 180L256 120Z" fill="white"/>
+  
+  <!-- Graduation Cap Tassel -->
+  <path d="M380 180V250" stroke="white" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="380" cy="260" r="10" fill="white"/>
+  
+  <!-- Checklist / Progress Lines -->
+  <rect x="180" y="280" width="120" height="12" rx="6" fill="white"/>
+  <rect x="180" y="315" width="150" height="12" rx="6" fill="white"/>
+  <rect x="180" y="350" width="100" height="12" rx="6" fill="white"/>
+  
+  <!-- Checkmark -->
+  <path d="M350 280L370 300L410 260" stroke="white" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
